@@ -21,7 +21,7 @@
 		"getmac": "1.0.7",
 		"graceful-fs": "4.1.2",
 		"http-proxy-agent": "^0.2.6",
-		"https-proxy-agent": "^0.3.5",
+		"https-proxy-agent": "^2.2.0",
 		"iconv-lite": "^0.4.13",
 		"sax": "^1.1.1",
 		"semver": "^4.2.0",
